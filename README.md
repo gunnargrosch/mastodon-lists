@@ -14,6 +14,8 @@ Repository contains csv files with lists of Mastodon users ready for import to y
 
 ## How to import
 
+[Actions](actions)
+
 1. Clone repository or download individual files.
 1. In Mastodon web ui, navigate to `Preferences` > `Import and export` > `Import`.
 1. Select `Following list` in the `Import type` dropdown menu.
@@ -23,7 +25,8 @@ Repository contains csv files with lists of Mastodon users ready for import to y
 1. Repeat as needed for additional lists.
 
 ## Contribute
-Help keep the lists up to date by creating a PR or contact Gunnar Grosch in the way you see fit. Also applies if you want to be removed from any of the lists. 
+
+Help keep the lists up to date by creating a PR or contact Gunnar Grosch in the way you see fit. Also applies if you want to be removed from any of the lists.
 
 ## Author
 
