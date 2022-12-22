@@ -1,4 +1,4 @@
-# List of Mastodon users to import
+# Lists of Mastodon users to import
 
 ## Description
 
