@@ -22,5 +22,5 @@ jobs:
       - name: upload
         uses: actions/upload-artifact@v3
         with:
-          name: AWSMastodonList
+          name: AWS-Mastodon-Lists
           path: artifacts/
