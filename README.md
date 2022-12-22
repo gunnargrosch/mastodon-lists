@@ -14,7 +14,7 @@ Repository contains csv files with lists of Mastodon users ready for import to y
 
 ## How to import
 
-A GitHub Actions workflow will create a zip file with all the `csv` files in it. This zip file also contains a concatenated, sorted, and deduplicated `aws-all.csv` file which contains all the other `csv` files.
+A GitHub Actions workflow will create a zip file with all the `csv` files in it. This zip file also contains a concatenated, sorted, and deduplicated `aws-all.csv` file of all other `csv` files.
 To download this artifact go to the GitHub Actions section, click on the latest workflow run, and download the `AWS-Mastodon-Lists` artifact file from it.
 Alternatively clone the repository or download individual files.
 
