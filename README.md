@@ -11,6 +11,7 @@ Repository contains csv files with lists of Mastodon users ready for import to y
 - [AWS Employees](aws-employees.csv): Folks from all over AWS (including DevRel).
 - [AWS Heroes](aws-heroes.csv): Members of the AWS Heroes program.
 - [AWS User Group Leaders](aws-user-group-leaders.csv): User group leaders (can include CBs and Heroes).
+- [AWS Bots](aws-bots.csv): AWS related bots.
 
 ## How to import
 
